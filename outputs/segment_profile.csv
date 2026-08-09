@@ -1,0 +1,6 @@
+Segment,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue,Customer_Share_%,Revenue_Share_%
+At-Risk / Inactive Customers,1063,248.47,1.55,478.65,508803.08,24.5,5.73
+Elite VIP Customers,6,7.67,42.83,190808.54,1144851.22,0.14,12.88
+High-Value Loyal Customers,213,15.67,21.29,12813.94,2729369.56,4.91,30.71
+Regular Customers,3048,43.92,3.65,1333.13,4063389.1,70.26,45.72
+VIP Loyal Customers,8,6.5,120.5,55099.49,440795.93,0.18,4.96
