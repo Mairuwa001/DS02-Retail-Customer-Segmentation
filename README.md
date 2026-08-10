@@ -1,4 +1,9 @@
 # DS-02 Retail Customer Segmentation
+## Live Demo
+
+Try the deployed application here:
+
+https://ds02-retail-customer-segmentation.streamlit.app/
 
 ## Project Overview
 This project develops a machine-learning MVP that segments retail customers using **RFM analysis** and **K-Means clustering**. It is designed to help retail/POS businesses move from treating all customers alike to using data-driven customer engagement strategies.
